@@ -1,0 +1,51 @@
+abrir o codespace
+
+baixar a extensão (Spring Initializr Java)
+
+colocar busca (acho que o nome do que vc quer dar )
+
+mavem 
+
+3.4
+
+java
+
+br.manuel
+
+jar
+
+17
+
+postgretSQL
+
+JPA
+
+lombok (aqueles @)
+
+selcionar endereço para salvar
+
+
+
+###############################################################33
+
+Spring Boot With H2 Database(pra colocar application.prperties pra conetar com a supabase)
+
+como estou usando lombok posso gerar automaticmante com "import" e colocar o "@" exe: "@Getter"
+
+em JPA tem que ter uma chave primaria como "@Id" para que a busca deja mais rápida 
+
+"@Autowired"(gerenciada pelo spring boot) ele vai instanciar pra mim
+
+se quero mandar no banco meu objeto criado (pq se printar está na memoria apenas) respository.save(1)
+
+
+"@Componenet" (gerenciada pelo spring boot)
+
+consoleApp.java n busca no banco 
+
+####################################################################
+
+procurar o @OneToMany relacionamento entre classes assim como as aulas de banco de dados
+
+"@Lazy" tardio, trabalha com gets e sets
+
